@@ -12,7 +12,7 @@ Dear colleagues:
 I hope my letter finds you well. My name is REFAT ESHAQ (https://orcid.org/0000-0002-6448-4054).  My nickname is Wolf's Mind. I have created a new algorithm, namely Proportional–Integral–Derivative–Cumulative Neural Network (PIDC-NN), also called MinerNet. This algorithm work based on the PID controller that was created by the inventor Elmer Sperry in 1910. The code has been released on GitHub, see https://github.com/REFATESHAQ/PIDC-NN_MinerNet-Pro. The data (Coal and Gangue Infrared Images in BMP file format (Coal_Gangue_resize(240_108).zip)) have been released on IEEE Dataport, see https://dx.doi.org/10.21227/v3m7-dk11. 
 
 In this work, the PIDC-NN (MinerNet) has been developed into PIDC-NN (MinerNet-Pro). Note that  the concept of PIDC-NN (MinerNet)  and PIDC-NN (MinerNet-Pro) is same and the followings are the mean steps:
-1) the number of PID units in the first layer has been increased to 36 PID units in order to increase the number of extracted features from the infrared image so the size of the image should be (240*108*3).
+1) the number of PID units in the first layer has been increased to 36 PID units in order to increase the number of extracted features from the infrared image so the size of the image should be (240 * 108 * 3).
 2)  The number of PID units in the second layer has been increased to 12 PID units.
 3)  The number of PID units in the third layer has been increased to 4 PID units.
 4)  The number of PID units in the fourth layer has been increased to 2 PID units.
@@ -41,9 +41,9 @@ As the average review time in top journals for the first round of submission may
 
 •	If you are a researcher in Mechanical or Industrial Engineering, you can use and develop this code to remove unwanted material from production lines of factories or to detect defects in equipment. Also who work in Fluid Mechanics and Gas Dynamics, you can use this code in order to study the behavior of fluid by using infrared images of the movement of the fluid through the pipes and heat exchangers.
 
-•	If you are a researcher in Mechatronics Engineering, you can use and develop this code and insert it in Robots as visual sense algorithm such as Robotic Arms (Manipulators), Mobile Robots, and Drones and so on. 
+•	If you are a researcher in Mechatronics Engineering, you can use and develop this code and insert it in Robots as visual sense algorithm such as Robotic Arms (Manipulators), Mobile Robots, Drones and so on. 
 
-Finally, there are a lot of benefits from this algorithm (PIDC) to control thermal, electrical, and mechanical processes as long as you understand how the PIDC algorithm deal with multiple random complicated inputs to produce one or multiple stable outputs. To clarify, the PIDC algorithm can not only apply to control ANN but also to any system need to be stable.
+Finally, there are a lot of benefits from this algorithm (PIDC) to control thermal, electrical, and mechanical processes as long as you understand how the PIDC algorithm deal with multiple random complicated inputs to produce one or multiple stable outputs. To clarify, the PIDC algorithm can not only apply to control ANN but also to any system that needs to be stable.
 
 Yours faithfully
 
