@@ -43,7 +43,7 @@ As the average review time in top journals for the first round of submission may
 
 •	If you are a researcher in Mechatronics Engineering, you can use and develop this code and insert it in Robots as visual sense algorithm such as Robotic Arms (Manipulators), Mobile Robots, Drones and so on. 
 
-Finally, there are a lot of benefits from this algorithm (PIDC) to control thermal, electrical, and mechanical processes as long as you understand how the PIDC algorithm deal with multiple random complicated inputs to produce one or multiple stable outputs. To clarify, the PIDC algorithm can not only apply to control ANN but also to any system that needs to be stable.
+Finally, there are a lot of benefits from this algorithm (PIDC) to control thermal, electrical, and mechanical processes as long as you understand how the PIDC algorithm deal with multiple random complicated inputs to produce one or multiple stable outputs. To clarify, the PIDC algorithm can not only apply to control ANN but also to any system needs to be stable.
 
 Yours faithfully
 
