@@ -7,3 +7,4 @@ In this work, the PIDC-NN (MinerNet) has been developed into PIDC-NN (MinerNet-P
 3)  The number of PID units in the third layer has been increased to 4 PID units.
 4)  The number of PID units in the fourth layer has been increased to 2 PID units.
 5) the last layer has one PID unit, its output is the feedback that produces the error to adjust all extracted features from the image so the total number of extracted features by PIDC-NN (MinerNet-Pro) is 165 features. These features are exported to the fully-connected neural network for binary classification tasks.
+![Capture](https://github.com/REFATESHAQ/PIDC-NN_MinerNet-Pro/assets/48349737/ccfb5032-ba1d-4e79-be9c-2c1812aef1f7)
