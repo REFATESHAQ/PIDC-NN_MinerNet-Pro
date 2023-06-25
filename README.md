@@ -42,6 +42,7 @@ As the average review time in top journals for the first round of submission may
 •	If you are a researcher in Mechanical or Industrial Engineering, you can use and develop this code to remove unwanted material from production lines of factories or to detect defects in equipment. Also who work in Fluid Mechanics and Gas Dynamics, you can use this code in order to study the behavior of fluid by using infrared images of the movement of the fluid through the pipes and heat exchangers.
 
 •	If you are a researcher in Mechatronics Engineering, you can use and develop this code and insert it in Robots as visual sense algorithm such as Robotic Arms (Manipulators), Mobile Robots, and Drones and so on. 
+
 Finally, there are a lot of benefits from this algorithm (PIDC) to control thermal, electrical, and mechanical processes as long as you understand how the PIDC algorithm deal with multiple random complicated inputs to produce one or multiple stable outputs. To clarify, the PIDC algorithm can not only apply to control ANN but also to any system need to be stable.
 
 Yours faithfully
