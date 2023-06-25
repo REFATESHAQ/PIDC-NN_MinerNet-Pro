@@ -20,7 +20,7 @@ In this work, the PIDC-NN (MinerNet) has been developed into PIDC-NN (MinerNet-P
 
 ### Important Notice
 
-If you would like to operate this Network with other images in any other field but the number of images is different, you must adjust these numbers as shown in the below figure. For example, in my case, the number of infrared images of coal was 308 images and the number of infrared images of gangue was 308 images so the total was 616 images. The numbers of training, validation, and test,  in the Data processing section of the code, as displayed below figure,  were adjusted based on the number of images I had. If you do not understand what I mean and do not adjust these numbers, certainly the Network does not work well.
+If you would like to operate this Network with other images in any other field but the number of images is different, you must adjust these numbers as shown in the below figure. For example, in my case, the number of infrared images of coal was 308 images and the number of infrared images of gangue was 308 images so the total was 616 images. The numbers of training, validation, and test images,  in the Data processing section of the code as displayed in the below figure,  were adjusted based on the number of images I had. If you do not understand what I mean and do not adjust these numbers, certainly the Network does not work well.
 
 ![Capture](https://github.com/REFATESHAQ/PIDC-NN_MinerNet-Pro/assets/48349737/ccfb5032-ba1d-4e79-be9c-2c1812aef1f7)
 
