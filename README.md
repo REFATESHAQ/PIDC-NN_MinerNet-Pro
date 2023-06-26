@@ -6,7 +6,7 @@
                                                  
 ### Members of The Scientific Community
                                               
-### Wolves of science, engineering, and technology
+### Wolves of Science, Engineering, and Technology
                                        
 Dear colleagues:
 
