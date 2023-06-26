@@ -49,8 +49,6 @@ Yours faithfully
 
 ESHAQ
 
-Web of Science ResearcherID: AAJ-8724-2020
-
 ResearchGate: https://www.researchgate.net/profile/Refat-Eshaq
 
 Google Scholar: https://scholar.google.com/citations?user=_mmSzykAAAAJ&hl=en
