@@ -33,6 +33,7 @@ The code is licensed under GNU Affero General Public License Version 3 (GNU AGPL
 This work has been supported by my livelihood and my family's aid. The code and data are connected to the article, entitled [Deep Learning Algorithm for Computer Vision with a New Technique and Concept: PIDC-NN for Binary Classification Tasks in a Coal Preparation Plant (MinerNet)](https://doi.org/10.36227/techrxiv.23266301.v2)
 
 The question is, why do I make contact with you? 
+
 As the average review time in top journals for the first round of submission may exceed one year, they encourage the authors to submit their papers to TechRxiv, IEEE's preprint server, and publish the code in GitHub platform in order to quickly disseminate their work to a wide audience and gain community feedback. Therefore: 
 
 •	If you are a researcher in medicine, you can use and develop this code to detect the cancers Benign and Malignant Tumors by using the dataset of breast mammography images as inputs to the PIDC-NN algorithm.
