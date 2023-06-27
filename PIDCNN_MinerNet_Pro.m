@@ -46,7 +46,7 @@ for r = 1 : length(fileInfo2);
 end
                                        %%% End images load %%%
 %% Feature extraction process starts
-Final_Output = zeros ( 541, 300);
+Final_Output = zeros ( 616, 240);
 Kp = 1*10^-7;          % proportional KP
 Ki = 2*10^-7;          % Integral  KI
 Kd = 3*10^-7;          % derivative KD
