@@ -1,6 +1,6 @@
 # The architecture of the proposed PIDC-NN, also called MinerNet-Pro. To read and download the article, please click here [PIDC-NN_MinerNet Article](https://doi.org/10.36227/techrxiv.23266301.v2)
 
-![PIDC-NN_MinerNet-Pro](https://github.com/REFATESHAQ/PIDC-NN_MinerNet-Pro/assets/48349737/fbaa090d-dec6-4687-8d17-650d3a4150d8)
+![PIDC-NN_MinerNet-Pro](https://github.com/REFATESHAQ/PIDC-NN_MinerNet-Pro/assets/48349737/1cfc3ddd-a529-40e7-8839-88a4447eca58)
 
 ### To Whom It May Concern
                                                  
