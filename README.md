@@ -1,4 +1,4 @@
-# The architecture of the proposed PIDC-NN, also called MinerNet-Pro. To read and download the article, please click here [PIDC-NN_MinerNet Article](https://doi.org/10.36227/techrxiv.23266301.v2)
+# The architecture of the proposed PIDC-NN, also called MinerNet-Pro. To read and download the article, please click here [PIDC-NN (MinerNet) Article](https://doi.org/10.36227/techrxiv.23266301.v3)
 
 ![PIDC-NN_MinerNet-Pro](https://github.com/REFATESHAQ/PIDC-NN_MinerNet-Pro/assets/48349737/1cfc3ddd-a529-40e7-8839-88a4447eca58)
 
@@ -12,7 +12,7 @@ Dear colleagues:
 
 I hope my letter finds you well. My name is REFAT ESHAQ (https://orcid.org/0000-0002-6448-4054).  My nickname is Wolf's Mind. I have created a new algorithm, namely Proportional–Integral–Derivative–Cumulative Neural Network (PIDC-NN), also called MinerNet. This algorithm work based on the PID controller that was created by the inventor Elmer Sperry in 1910. The code has been released on GitHub, see https://github.com/REFATESHAQ/PIDC-NN_MinerNet-Pro. The data (Coal and Gangue Infrared Images in BMP file format (Coal_Gangue_resize(240_108).zip)) have been released on IEEE Dataport, see https://dx.doi.org/10.21227/v3m7-dk11. 
 
-In this work, the PIDC-NN (MinerNet) has been developed into PIDC-NN (MinerNet-Pro). Note that  the concept of PIDC-NN (MinerNet)  and PIDC-NN (MinerNet-Pro) is same and the followings are the mean steps:
+In this work, the PIDC-NN (MinerNet) has been developed into PIDC-NN (MinerNet-Pro). Note that  the concept of PIDC-NN (MinerNet)  and PIDC-NN (MinerNet-Pro) is the same and the followings are the mean steps:
 1) the number of PID units in the first layer has been increased to 36 PID units in order to increase the number of extracted features from the infrared image so the size of the image should be (240 * 108 * 3).
 2)  The number of PID units in the second layer has been increased to 12 PID units.
 3)  The number of PID units in the third layer has been increased to 4 PID units.
